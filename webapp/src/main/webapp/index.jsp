@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Shopping Website</title>
+    <title>Flipkart Shopping Website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1>epublic day offers available from 2pm to 5pm</h1>
+	<h1>Flipkart Republic day limited offers available from 2pm to 5pm</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
